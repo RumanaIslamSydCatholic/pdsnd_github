@@ -4,7 +4,7 @@
 27/11/2023
 
 ### Project Title
-Bikeshare
+Bikeshare Project
 
 ### Description
 Calculates and displays different stats about bikeshare for three different cities
